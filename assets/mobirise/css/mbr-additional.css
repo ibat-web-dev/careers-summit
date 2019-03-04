@@ -1491,7 +1491,7 @@ body {
   background-color: #dab1f1;
 }
 .cid-rjGhZi1ilA .mbr-section-subtitle {
-  color: #232323;
+  color: #32064a;
 }
 .cid-rjGhZi1ilA H2 {
   color: #32064a;
@@ -1517,6 +1517,7 @@ body {
 }
 .cid-rjGhxOScdu .plan-title {
   margin-top: 1.4rem;
+  color: #5b686b;
 }
 .cid-rjGhxOScdu .price-figure {
   font-weight: 700;
@@ -1533,6 +1534,9 @@ body {
 }
 .cid-rjGhxOScdu hr {
   margin: 2rem 0;
+}
+.cid-rjGhxOScdu P {
+  color: #32064a;
 }
 .cid-rjGinjuhqA {
   padding-top: 60px;
